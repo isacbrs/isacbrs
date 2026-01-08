@@ -1,7 +1,7 @@
 ## Olá, eu sou o Isac Barros 👋
 
-- 💼 Trabalho como Back-End
-- 📖 Estou estudando Python
+- 💼 Trabalho com Back-End
+- 📖 Estou estudando Python e Java
 - 📫 Contate-me no e-mail: isac.brs.contact@gmail.com
 
 <div style="display: inline_block"><br>
