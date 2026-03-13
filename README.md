@@ -1,13 +1,14 @@
 ## Olá, eu sou o Isac Barros 👋
 
-- 💼 Trabalho com Back-End e Full-Stack
-- 📖 Estou estudando Python e Front-End
+- 💼 Trabalho com Back-End, Full-Stack e Desenvolvimento IOS
+- 📖 Estou estudando CLoud, Python, Swift e Front-End
 - 📫 Contate-me no e-mail: isac.brs.contact@gmail.com
 - 🛠️ Ferramentas:
 <div style="display: inline_block"><br>
   <img align="center" alt="Isac-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">   
   <img align="center" alt="Isac-Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Isac-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Isac-swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
 </div>
   
   ##
