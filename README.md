@@ -1,6 +1,6 @@
 ## Olá, eu sou o Isac Barros 👋
 
-- 💼 Desenvolvedor back-End e Full-Stack
+- 💼 Desenvolvedor Back-End
 - 📖 Estou estudando CLoud, Python, Java e Front-End
 - 📫 Contate-me no e-mail: isac.brs.contact@gmail.com
 - 🛠️ Ferramentas:
